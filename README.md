@@ -91,4 +91,3 @@ Below are the JavaScript fundamentals Wes and Scott listed, along with my favori
 
 [Closures](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
-As Wes and Scott point out, building real projects with JavaScript is what will cement these fundamentals you've read about. Make sure to build projects as you go. If you feel stuck on how to go from tutorials to actually building projects, check out  [this article](https://www.freecodecamp.org/news/how-to-go-from-coding-tutorials-to-building-your-own-projects-b9ab51074980/)  I wrote.
